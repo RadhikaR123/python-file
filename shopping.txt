@@ -1,0 +1,9 @@
+oil-500
+flour-400
+dishwash-80
+soap-290
+sugar-670
+tea-450
+surf-340
+liquid-230
+2960
